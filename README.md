@@ -34,6 +34,6 @@ This project was created by a group of students at DHBW Karlsruhe in Germany as 
 * [Denis](https://github.com/Dene1894)
 * [Benjamin](https://github.com/el-Ben-Barto)
 * [Nicolas](https://github.com/thenightmanager)
-* [Tobias]()
+* [Tobias](https://github.com/laugmanuel/UpcomingMoviesBot/)
 
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" height="50em">  <img src="https://www.themoviedb.org/assets/static_cache/bb45549239e25f1770d5f76727bcd7c0/images/v4/logos/408x161-powered-by-rectangle-blue.png" height="50em">

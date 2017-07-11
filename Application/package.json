@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas, Manuel",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moviedb": "^0.2.8",
+    "node-schedule": "^1.2.3",
+    "telebot": "^1.2.0",
+    "tingodb": "^0.5.1",
+    "winston": "^2.3.1"
+  }
+}

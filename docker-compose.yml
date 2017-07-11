@@ -1,0 +1,11 @@
+version: '2'
+services:
+  moviebot:
+    image: node:latest
+    environment:
+      TELEGRAMAPI: 'APIKEY'
+      TMDBAPI: 'APIKEY'
+    volumes: 
+      - "./Application:/usr/src/app"
+    working_dir: /usr/src/app
+    command: ["./entrypoint.sh"]
